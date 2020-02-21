@@ -1,7 +1,7 @@
 <?php
 //課題１
 $name = "Sato_Reiji";
-if ($name = "Sato_Reijiato") {
+if ($name == "Sato_Reiji") {
     echo "私は あなたの 名前です。";
 } else {
     echo "あなたの名前ではありません。";
